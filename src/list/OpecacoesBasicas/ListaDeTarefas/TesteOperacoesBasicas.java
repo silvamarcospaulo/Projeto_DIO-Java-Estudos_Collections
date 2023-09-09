@@ -1,11 +1,5 @@
-package list.OpecacoesBasicas;
+package list.OpecacoesBasicas.ListaDeTarefas;
 
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
-
-import javax.sound.midi.Soundbank;
-import java.util.Arrays;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class TesteOperacoesBasicas {

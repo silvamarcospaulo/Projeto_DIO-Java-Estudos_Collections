@@ -1,7 +1,6 @@
-package list.OpecacoesBasicas;
+package list.OpecacoesBasicas.ListaDeTarefas;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class ListaTarefas {
