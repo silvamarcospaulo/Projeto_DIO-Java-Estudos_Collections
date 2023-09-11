@@ -13,7 +13,6 @@ public class TesteCatalogoDeLivros {
         String autor = "";
         int anoDePublicacao = 0;
 
-
         do {
             System.out.println(
                     "  Menu:\n" +

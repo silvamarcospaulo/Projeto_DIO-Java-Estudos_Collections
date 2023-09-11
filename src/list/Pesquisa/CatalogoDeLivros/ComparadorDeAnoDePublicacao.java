@@ -1,5 +1,4 @@
 package list.Pesquisa.CatalogoDeLivros;
-
 import java.util.Comparator;
 
 public class ComparadorDeAnoDePublicacao implements Comparator<Livro> {

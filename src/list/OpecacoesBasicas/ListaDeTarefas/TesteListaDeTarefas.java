@@ -2,7 +2,7 @@ package list.OpecacoesBasicas.ListaDeTarefas;
 
 import java.util.Scanner;
 
-public class TesteOperacoesBasicas {
+public class TesteListaDeTarefas {
     public static void main(String[] args) {
 
         ListaTarefas novaLista = new ListaTarefas();
