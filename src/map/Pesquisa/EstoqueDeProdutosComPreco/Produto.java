@@ -1,4 +1,4 @@
-package map.Ordenacao.EstoqueDeProdutosComPreco;
+package map.Pesquisa.EstoqueDeProdutosComPreco;
 
 public class Produto {
 
